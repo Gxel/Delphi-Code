@@ -1,0 +1,7 @@
+iexplore.exe
+firefox.exe
+msnmsgr.exe
+opera.exe
+OUTLOOK.EXE
+notepad.exe
+thunderbird.exe

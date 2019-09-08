@@ -1,0 +1,14 @@
+program Project1;
+
+uses
+  Forms,
+  UnitNetbox in 'UnitNetbox.pas' {FormNetbox},
+  UnitNetBoxBasic in 'UnitNetBoxBasic.pas';
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.CreateForm(TFormNetbox, FormNetbox);
+  Application.Run;
+end.

@@ -1,0 +1,11 @@
+20090401 - Decodierung der eingabe korrigiert.
+	 - Refresher korrigiert.
+         - Last message boxen eingebaut aber noch auskommentiert.
+
+20090404 - Fehler bei den TANS bereinigt
+         - Message eingebaut
+         - Beep eingebaut
+         - Druck verbessert.
+
+20090414 - counter verbessert
+         - bmp's eingebaut
